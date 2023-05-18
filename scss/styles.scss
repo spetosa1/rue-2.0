@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;900&display=swap');
+@import './base/vars' ;
+
+@import'./componentes/index';
+@import'./componentes/inicio';
+@import './componentes/contacto';
+@import './componentes/catalogo';
+@import './componentes/acercade';
+
+
+
+
+
